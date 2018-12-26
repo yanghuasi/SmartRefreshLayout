@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="button"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:background="#FF8C00"/>
+    <TextView
+        android:id="@+id/tvtwo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="button"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="#FF4040"/>
+    <TextView
+        android:id="@+id/tvthree"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="button"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="#EEA9B8"/>
+</LinearLayout>
+
